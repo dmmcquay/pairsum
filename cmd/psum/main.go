@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"s.mcquay.me/dm/pairsum/pairsum"
+	"github.com/dmmcquay/pairsum"
 )
 
 func main() {
